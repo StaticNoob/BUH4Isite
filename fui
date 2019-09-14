@@ -1,0 +1,13 @@
+[1mdiff --git a/Students.html b/Students.html[m
+[1mindex 77172dd..e4e8c73 100644[m
+[1m--- a/Students.html[m
+[1m+++ b/Students.html[m
+[36m@@ -59,7 +59,7 @@[m
+                     <div class="timeline__content">[m
+                       <p style="font-size: 1.92em; font-weight: bold;">Info Session </p>[m
+                       <p>Be sure to come out to our Info Session to get an idea of who we are, what we do, and the impact Hack4Impact has.[m
+[31m-                        We hope to see you there and get to know each other!</p>[m
+[32m+[m[32m                        We hope to see you there and get to know each other!!</p>[m
+                     </div>[m
+                   </div>[m
+                 </div>[m
